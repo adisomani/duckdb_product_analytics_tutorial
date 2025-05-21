@@ -1,6 +1,7 @@
 # 🐤 DuckDB Product Analytics Tutorial
+This project provides a lightweight, beginner-friendly dataset and SQL loader designed to help you explore real-world product analytics use cases using [DuckDB](https://duckdb.org/).  
 
-This project is a lightweight and beginner-friendly dataset + SQL loader for exploring product analytics use cases in [DuckDB](https://duckdb.org/). It’s perfect for tutorials, workshops, blog posts, or just getting your hands dirty with analytics!
+You can follow a step-by-step tutorial based on this dataset on the [MotherDuck blog](TBD_LINK).
 
 ---
 
